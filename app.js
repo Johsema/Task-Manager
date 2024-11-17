@@ -89,5 +89,5 @@ themeToggleButton.addEventListener("click" , () => {
 })
 
 if(currentTheme === "dark") {
-    document.body.classList.add("dark-theme")
+    document.body.classList.add("dark-theme");
 }
